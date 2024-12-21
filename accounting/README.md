@@ -1,6 +1,6 @@
 # Accounting company, data from Customers - Income analysis
 
-![Accounting report](accounting\images\accounting_report_header.png)
+![Accounting report](images/accounting_report_header.png)
 
 Tools:
 - basics: MS Excel
@@ -12,7 +12,7 @@ Analyzing an accounting dataset in MS Excel involves several key steps to extrac
 
 Basic analyses are included as calculating totals for revenue, expenses, and net profit using simple formulas. Pivot tables are used to group and summarize financial data, such as categorizing transactions by date, Client. 
 
-![Basic pivot plot](images\Report_Excel_SelectedUserIncome_YQuarters_styled.png)
+![Basic pivot plot](images/Report_Excel_SelectedUserIncome_YQuarters_styled.png)
 
 Additionally, charts like bar graphs and pie charts could have provided visual overview of key financial metrics, making it easier to identify trends or areas of concern, ... but it was made in PowerBI, because it is a better tool for such analysis.
 

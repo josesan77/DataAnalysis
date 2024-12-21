@@ -7,7 +7,7 @@ Tools:
 
 ## Accounting company, data from Customers - Income analysis
 
-![Accounting report](accounting\images\accounting_report_header.png)
+![Accounting report](accounting/images/accounting_report_header.png)
 
 A 2-in-1 PowerBI report: the first dashboards are analysing Clients of the Accounting company, in general for filings, sum revenue and expenses, outlier detection, currencies, currency conversion...
 Second part is rather a report for Customers as Clients, summarizing year trends, revenue and expense amounts, cashflow.
